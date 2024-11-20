@@ -4,7 +4,7 @@ const nextConfig = {
     domains: ['utfs.io'],
     remotePatterns: [
       {
-        protocol: 'https',
+        protocol: 'https', 
         hostname: 'utfs.io',
         port: ''
       }
