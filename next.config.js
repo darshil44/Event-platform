@@ -8,7 +8,7 @@ const nextConfig = {
         hostname: 'utfs.io',
         port: ''  
       }  
-    ]
+    ] 
   }
 }
 
